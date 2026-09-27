@@ -50,6 +50,6 @@ DIVIDE(
     ),
     [Total Customers],
     0
-)
-Markdown
-📥 **[Download Power BI Dashboard (.pbix)](./Credit Risk & Customer Segmentation Dashboard.pbix)**
+)'''
+
+📥 **[Download Power BI Dashboard (.pbix)](./Credit%20Risk%20&%20Customer%20Segmentation%20Dashboard.pbix)**
